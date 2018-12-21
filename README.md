@@ -1,1 +1,1 @@
-# SoftKomjuting
+# SoftKompjuting
